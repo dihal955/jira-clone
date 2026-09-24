@@ -1,4 +1,4 @@
-package com.jira.demo.Entity;
+package com.jira.demo.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

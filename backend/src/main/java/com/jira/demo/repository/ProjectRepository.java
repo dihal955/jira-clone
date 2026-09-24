@@ -1,6 +1,6 @@
-package com.jira.demo.Repository;
+package com.jira.demo.repository;
 
-import com.jira.demo.Entity.Project;
+import com.jira.demo.entity.Project;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
